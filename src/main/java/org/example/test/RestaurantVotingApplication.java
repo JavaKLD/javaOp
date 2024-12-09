@@ -10,6 +10,4 @@ public class RestaurantVotingApplication {
         SpringApplication.run(RestaurantVotingApplication.class, args);
     }
 
-
-
 }
